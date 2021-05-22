@@ -110,7 +110,7 @@ height:90vh;
       <div class="item">
         <img src="flower3.jpg" alt="Flowers" style="width:100%;">
         <div class="carousel-caption">
-          <h3>GO GREEN</h3>
+          <h3>GO</h3>
         </div>
       </div>
      </div>
